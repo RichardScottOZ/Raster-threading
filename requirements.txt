@@ -1,0 +1,4 @@
+GDAL>=3.0.0
+numpy>=1.20.0
+pytest>=7.0.0
+pytest-benchmark>=4.0.0
